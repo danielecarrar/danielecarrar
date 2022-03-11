@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DanieleCarraro
-- 👀 I’m interested in learning back end technologies
+- 👀 I’m interested in learning back-end and front-end technologies!
 - 🌱 I’m currently studying at Epicode - Java and PostgreSQL
 - 📫 My email: daniele._k@libero.it
